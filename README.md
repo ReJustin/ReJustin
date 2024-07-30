@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on INS(InverseSkyTeam).
 - 📫 How to reach me: QQ(22494933), Luogu(993236).
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm an SB(Sunny Boy).
+- ⚡ Not Really Fun fact: I'm an OIer.
 
 <!---
 ReJustin/ReJustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
